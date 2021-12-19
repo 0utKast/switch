@@ -19,7 +19,7 @@ void imprimeNombre(int x)
     }
 
     // ejecución continúa aquí
-    std::cout << "\nEsto se imprime siempre que llamemos a imprimeNombre( )";
+    std::cout << "\nEsto se imprime siempre que llamemos  imprimeNombre( )";
 }
 
 int main()
